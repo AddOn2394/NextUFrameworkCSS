@@ -1,9 +1,20 @@
 div[class*="columns"]{
-  background: #B4DCED;
+background:rgba(5, 68, 170,0.5);
   border: 1px solid #585858;
 
   font-size: 1rem;
 }
 .articulo{
     height: 300px;
+}
+div{
+}
+body{
+    background-image: url(../images/fondococinablog.jpg);
+    background-size: 100%; 
+    background-attachment: fixed;
+   color: white;    
+}
+a{
+    color: lightyellow;
 }
