@@ -4,3 +4,6 @@ div[class*="columns"]{
 
   font-size: 1rem;
 }
+.articulo{
+    height: 300px;
+}
