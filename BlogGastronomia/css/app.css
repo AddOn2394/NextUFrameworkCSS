@@ -11,8 +11,8 @@ div{
 }
 body{
     background-image: url(../images/fondococinablog.jpg);
-    background-size: 100%; 
     background-attachment: fixed;
+    overflow: scroll;
    color: white;    
 }
 a{
