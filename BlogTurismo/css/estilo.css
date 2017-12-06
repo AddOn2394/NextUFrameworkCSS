@@ -4,3 +4,9 @@
 .articulo{
     text-align: justify;
 }
+body{
+    background-image: url(../img/fotoBlog.jpg);
+    background-attachment: fixed;
+    overflow: scroll;
+   color: white;    
+}
